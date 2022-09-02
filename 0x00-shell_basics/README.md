@@ -1,1 +1,1 @@
-Delete the file betty.
+Create a symbolic link to /bin/ls, named __ls__

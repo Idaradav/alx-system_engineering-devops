@@ -1,6 +1,1 @@
-Write a script that prints “Hello, World”,
-script that displays a confused smiley
-script that displays a confused smiley
-script that displays a confused smiley
-script that displays a confused smiley
-script that creates a file named exactly 
+content of the /etc/passwd file.

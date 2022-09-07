@@ -12,3 +12,4 @@ Write a script that writes into the file ls_cwd_content the result of the comman
 
 Write a script that writes into the file ls_cwd_content the result of the command
 Write a script that duplicates the last line of thefile
+Write a script that deletes all the regular files (not the directories) 

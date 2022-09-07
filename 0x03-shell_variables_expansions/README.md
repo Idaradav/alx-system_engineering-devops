@@ -17,3 +17,4 @@ script that prints the result of POWER divided by DIVIDE, followed by a new line
 Write a script that prints a number with two decimal places, followed by a new line
 Write a script that converts a number from base 10 to base 16
 Write a script that encodes and decodes text using the rot13 encryption
+Write a script that converts a number from base 10 to base 16
